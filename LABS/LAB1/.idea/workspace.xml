@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b9a2184-ab04-4de7-8316-6e24a7538e80" name="Changes" comment="" />
+    <list default="true" id="1b9a2184-ab04-4de7-8316-6e24a7538e80" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab_1_Klingen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PZ-ASD1-PDF (1).pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
